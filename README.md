@@ -28,20 +28,16 @@ The dataset used in this project contains screening test data for toddlers inclu
 5. Prediction and evaluation
 
 ## Results
-
 The machine learning model predicts the likelihood of autism based on the input data.
 
 ## How to Run the Project
-
 1. Install Python
 2. Install required libraries
-3. Run the notebook in Jupyter Notebook
+3. Run the notebook in Jupyter Notebook.
 4. Execute all cells to train and test the model
 
 ## Author
-
 Lavanya B Y
-
 
 # Project Structure
 
