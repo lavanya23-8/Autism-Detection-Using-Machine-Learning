@@ -37,7 +37,7 @@ The machine learning model predicts the likelihood of autism based on the input 
 4. Execute all cells to train and test the model
 
 ## Author
-Lavanya B Y
+Lavanya B Y.
 
 # Project Structure
 
