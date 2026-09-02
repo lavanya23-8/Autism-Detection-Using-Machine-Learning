@@ -28,7 +28,7 @@ The dataset used in this project contains screening test data for toddlers inclu
 5. Prediction and evaluation
 
 ## Results
-The machine learning model predicts the likelihood of autism based on the input data.
+The machine learning model predicts the likelihood of autism based on the input data
 
 ## How to Run the Project
 1. Install Python
