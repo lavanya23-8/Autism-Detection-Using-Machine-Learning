@@ -4,7 +4,7 @@
 
 This project uses machine learning techniques to detect Autism Spectrum Disorder (ASD) traits in toddlers based on behavioral screening data.
 
-The model analyzes several behavioral attributes and predicts whether a child may show signs of autism
+The model analyzes several behavioral attributes and predicts whether a child may show signs of autism.
 
 ## Technologies Used
 
