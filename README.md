@@ -13,7 +13,7 @@ The model analyzes several behavioral attributes and predicts whether a child ma
 * NumPy
 * Scikit-learn
 * Matplotlib 
-* Jupyter Notebook
+* Jupyter Notebook 
 
 ## Dataset
 
