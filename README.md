@@ -1,6 +1,6 @@
 # Autism Detection using Machine Learning
 
-## Project Description
+## Project Description 
 
 This project uses machine learning techniques to detect Autism Spectrum Disorder (ASD) traits in toddlers based on behavioral screening data 
 
