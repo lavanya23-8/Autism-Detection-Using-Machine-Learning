@@ -13,7 +13,7 @@ The model analyzes several behavioral attributes and predicts whether a child ma
 * NumPy
 * Scikit-learn
 * Matplotlib 
-* Jupyter Notebook
+* Jupyter Notebook 
 
 ## Dataset
 
@@ -39,7 +39,7 @@ The machine learning model predicts the likelihood of autism based on the input 
 ## Author
 Lavanya B Y.
 
-# Project Structure
+# Project Structure 
 
 Autism\_Detection\_Model.ipynb
 
