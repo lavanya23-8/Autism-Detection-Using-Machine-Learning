@@ -34,7 +34,8 @@ The machine learning model predicts the likelihood of autism based on the input 
 1. Install Python
 2. Install required libraries
 3. Run the notebook in Jupyter Notebook.
-4. Execute all cells to train and test the model
+4. Execute all cells to train and test the 
+model
 
 ## Author
 Lavanya B Y.
