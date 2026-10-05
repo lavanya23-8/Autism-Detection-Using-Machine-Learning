@@ -6,7 +6,7 @@ This project uses machine learning techniques to detect Autism Spectrum Disorder
 
 The model analyzes several behavioral attributes and predicts whether a child may show signs of autism 
 
-## Technologies Used
+## Technologies Used 
 
 * Python
 * Pandas
