@@ -19,7 +19,7 @@ The model analyzes several behavioral attributes and predicts whether a child ma
 
 The dataset used in this project contains screening test data for toddlers including behavioral questions and demographic information.
 
-## Project Workflow
+## Project Workflow 
 
 1. Data loading
 2. Data preprocessing
