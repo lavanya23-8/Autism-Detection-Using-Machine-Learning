@@ -8,7 +8,7 @@ The model analyzes several behavioral attributes and predicts whether a child ma
 
 ## Technologies Used 
 
-* Python
+* Python 
 * Pandas
 * NumPy
 * Scikit-learn
